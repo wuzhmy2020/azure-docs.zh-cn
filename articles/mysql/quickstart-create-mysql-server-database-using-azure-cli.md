@@ -228,7 +228,7 @@ az group delete --name myresourcegroup
 az mysql server delete --resource-group myresourcegroup --name mydemoserver
 ```
 
-## <a name="next-steps"></a>后续步骤
+## 后续步骤
 
 > [!div class="nextstepaction"]
 > [使用 Azure CLI 设计 MySQL 数据库](./tutorial-design-database-using-cli.md)
